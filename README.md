@@ -8,8 +8,8 @@
 Follow these steps for installation:
 
 1. Ensure that `CUDA` is installed
-2. Clone the repository: `git clone https://github.com/Haurrus/xtts-trainer-no-ui-auto`
-3. Navigate into the directory: `cd xtts-trainer-no-ui-auto`
+2. Clone the repository: `git clone https://github.com/ParagWadhai/Fine-tuning-Text-to-Speech-TTS-Models-for-English-Technical-Speech-and-Regional-Languages.git`
+3. Navigate into the directory: `cd Fine-tuning-Text-to-Speech-TTS-Models-for-English-Technical-Speech-and-Regional-Languages`
 4. Create a virtual environment: `python -m venv venv`
 5. Activate the virtual environment:
    - On Windows use : `venv\scripts\activate`
