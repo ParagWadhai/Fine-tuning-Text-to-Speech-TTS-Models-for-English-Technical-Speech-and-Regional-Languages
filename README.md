@@ -51,7 +51,7 @@ To train models you need a dataset, there's an exemple dataset in the finetune_m
 ### Running the Script
 Execute the script with the following command:
 ```
-python xtts_finetune_no_ui_auto.py --args_json path/to/args.json --datasets_json path/to/datasets.json
+python tts_finetune.py --args_json path/to/args.json --datasets_json path/to/datasets.json
 ```
 
 ## Features
@@ -69,7 +69,7 @@ This script processes audio files to create training and evaluation datasets usi
 To use the script, provide the path to a JSON configuration file and the Whisper model version as command-line arguments:
 
 ```
-python xtts_generate_dataset.py --config path/to/config.json --whisper_version large-v3
+python tts_generate_dataset.py --config path/to/config.json --whisper_version large-v3
 ```
 
 The JSON configuration file should contain the audio paths, target language, activation flag, and name for each dataset.
