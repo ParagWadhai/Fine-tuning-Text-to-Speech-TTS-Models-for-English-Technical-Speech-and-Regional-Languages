@@ -105,10 +105,3 @@ Replace `path/to/audio/files` with the actual path to your audio files and `data
 
 6. **Configurable Through JSON**: The entire preprocessing can be configured using a JSON file, making it easy to adjust settings like the target language, audio paths, and output names.
 
-
-## Contributing
-Contributions are welcome. Please fork the repository and submit pull requests with your changes.
-
-
-## Credit
-Thanks to the author **daswer123** for the repository [xtts-webui](https://github.com/daswer123/xtts-webui) , My project is based on his work.
